@@ -31,7 +31,7 @@ const Index = () => {
             </Button>
             
             <Button variant="hero-outline" size="lg" asChild>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/ITbrandon" target="_blank" rel="noopener noreferrer">
                 <Github className="h-4 w-4" />
                 GitHub
               </a>
